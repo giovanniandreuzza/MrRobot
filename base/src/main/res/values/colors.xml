@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="off_white">#eafae9</color>
+    <color name="dark">#252b33</color>
+    <color name="turquoise_blue">#00aacc</color>
+    <color name="ice_blue">#f2f4f5</color>
+    <color name="off_yellow">#f4e84a</color>
+    <color name="lighter_green">#71e977</color>
+    <color name="pale_blue">#dbebee</color>
+    <color name="white_50">#80ffffff</color>
+    <color name="blue_grey">#929599</color>
+    <color name="orange_yellow">#f5a623</color>
+    <color name="orange_red">#F83935</color>
+    <color name="pink">#ffe9e9</color>
+    <color name="pale_blue_mostly_white">#eff7ff</color>
+    <color name="light_grayish_cyan">#d3e2e5</color>
+    <color name="dark_cyan">#12697e</color>
+    <color name="very_light_pink">#fed7d7</color>
+    <color name="ice">#e8f8e9</color>
+    <color name="light_grey_blue">#a8c5ca</color>
+    <color name="very_dark_grayish_blue">#3b4047</color>
+    <color name="turquoise_blue_hint">#8000AACC</color>
+
+
+    <color name="bluey_grey">#929599</color>
+    <color name="orangey_yellow">#f5a623</color>
+    <color name="orangey_red">#f83935</color>
+    <color name="orangey_yellow_two">#f4a622</color>
+    <color name="orangey_red_two">#f73935</color>
+    <color name="lightish_green">#56de5d</color>
+    <color name="light_blue_grey">#cddadc</color>
+    <color name="duck_egg_blue">#d3e2e5</color>
+    <color name="light_navy">#126b80</color>
+    <color name="dark_two">#1f252c</color>
+
+
+    <color name="transparent_10">#91F3F3F4</color>
+    <color name="transparent_60">#F2F3F3F4</color>
+</resources>

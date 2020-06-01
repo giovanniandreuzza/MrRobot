@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_main_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.github.giovanniandreuzza.mrrobot.presentation.home.HomeFragment"
+        android:label="HomeFragment"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_homeFragment_to_task1Fragment"
+            app:destination="@id/task1Fragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_task2Fragment"
+            app:destination="@id/task2Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/task1Fragment"
+        android:name="com.github.giovanniandreuzza.mrrobot.presentation.task1.Task1Fragment"
+        android:label="Task1Fragment"
+        tools:layout="@layout/fragment_task">
+    </fragment>
+
+    <fragment
+        android:id="@+id/task2Fragment"
+        android:name="com.github.giovanniandreuzza.mrrobot.presentation.task2.Task2Fragment"
+        android:label="Task2Fragment"
+        tools:layout="@layout/fragment_task">
+    </fragment>
+
+</navigation>
