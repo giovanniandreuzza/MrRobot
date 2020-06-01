@@ -1,0 +1,5 @@
+include ':app', ':legoandroid'
+rootProject.name='MrRobot'
+include ':base'
+include ':utils'
+include ':androidutility'
